@@ -1,0 +1,43 @@
+body {
+		background: url("http://i59.tinypic.com/m8h2sp.jpg");
+		background-size: cover;
+		font-family: 'coming soon'
+	}
+	.top {
+		width: 150px;
+		padding: 5px;
+		margin: 5px 5px 20px 20px;
+		text-align: right;
+		color: rgba(255,255,255,1);
+		position: relative;
+		left: 1000px;
+		z-index: 1;
+		background: url("http://www.hdwalls.info/wp-content/uploads/2012/11/Abstract-blue-50.jpg"); 
+		background-position: center;
+	}
+	header {
+		position: relative;
+		top: -90px;
+		text-align: center;
+	}
+	img {
+	border: 5px solid green;
+		border-radius: 40px;
+	}
+	.center {
+		width: 500px;
+		margin: 0 auto;
+		text-align: justify;
+		background-color: rgba(100, 250, 50, .4);
+		border-radius: 20px;
+	}
+	.bottom {
+		width: 400px;
+		margin: 0 0 20px 20px;
+		padding: 5px;
+		background: url("http://www.hdwalls.info/wp-content/uploads/2012/11/Abstract-blue-50.jpg"); 
+		background-size: cover;
+		color: rgba(255, 255, 255, 1);
+	}
+
+	
